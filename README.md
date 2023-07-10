@@ -23,9 +23,11 @@ I am a self-taught Front-end Web Developer. I have completed many freelance proj
 ✔ Logo redrawing/vectoring
 
 
+
 ✨✨✨✨✨✨    Primary Skills   ✨✨✨✨✨✨
 
 HTML5 + CSS3(Flexbox & Grid System) + Bootstrap + Javascript(jQuery) + PHP + WordPress + Photoshop + Illustrator
+
 
 
 ✨✨✨✨✨✨    Other Skills   ✨✨✨✨✨✨
